@@ -1,5 +1,8 @@
 # nox-poetry
 
+
+[![security status](https://qa.meterian.io/badge/pb/5ceabb45-3ea0-4b6a-ac8e-1e8a8261f4ff/security)](https://qa.meterian.io/projects/?pid=5ceabb45-3ea0-4b6a-ac8e-1e8a8261f4ff) [![stability status](https://qa.meterian.io/badge/pb/5ceabb45-3ea0-4b6a-ac8e-1e8a8261f4ff/stability)](https://qa.meterian.io/projects/?pid=5ceabb45-3ea0-4b6a-ac8e-1e8a8261f4ff) [![licensing status](https://qa.meterian.io/badge/pb/5ceabb45-3ea0-4b6a-ac8e-1e8a8261f4ff/licensing)](https://qa.meterian.io/projects/?pid=5ceabb45-3ea0-4b6a-ac8e-1e8a8261f4ff)
+
 [![PyPI](https://img.shields.io/pypi/v/nox-poetry.svg)][pypi_]
 [![Python Version](https://img.shields.io/pypi/pyversions/nox-poetry)][python version]
 [![License](https://img.shields.io/pypi/l/nox-poetry)][license]
